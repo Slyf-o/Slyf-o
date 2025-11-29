@@ -27,13 +27,6 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
-<!-- Github Stats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slyf-o&show_icons=true&theme=tokyonight)
-
-<!-- Github trophies-->
-![](https://github-profile-trophy.vercel.app/?username=Slyf-o&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
